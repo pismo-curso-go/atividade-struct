@@ -8,7 +8,6 @@ Como participar
 - Partindo da branch main crie uma nova branch com seu-nome.
 - Agora, na sua branch, crie uma pasta com seu nome: seu-nome/.
 - Dentro da pasta, crie um arquivo main.go
-- Responda a cada uma das perguntas abaixo, e crie um commit separado para cada resposta.
 - Quando terminar, suba sua branch e abra um Pull Request para a branch release.
 
 Atividade:
