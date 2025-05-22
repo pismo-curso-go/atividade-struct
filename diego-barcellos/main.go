@@ -14,3 +14,11 @@ type Item struct {
 func main() {
 
 }
+
+func (o *Order) OrderTotal() float64 {
+	var total float64
+	for _, item := range o.ItemsList {
+		total += item.Price
+	}
+	return total
+}
